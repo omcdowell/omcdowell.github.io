@@ -1,0 +1,4 @@
+title: DinoBot
+description: Chat with AI bots that run on your own computer.
+exclude:
+  - LICENSE
